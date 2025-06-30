@@ -123,4 +123,4 @@ python main.py
 
 ---
 
-Desenvolvido por Herick.
+Desenvolvido por Herick
